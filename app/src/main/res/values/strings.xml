@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">StirHack v2</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string-array name="apis">
+        <item>Api1</item>
+        <item>Api2</item>
+        <item>Api3</item>
+        <item>Api4</item>
+        <item>Api5</item>
+        <item>Api6</item>
+        <item>Api7</item>
+        <item>Api8</item>
+    </string-array>
+    
+    <string name="action_settings">Settings</string>
+</resources>
